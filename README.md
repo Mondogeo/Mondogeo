@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mondogeo
 - 👀 I’m interested in Python, Micropython and Raspberry Pico.
 - 🌱 I’m currently learning Python programming.
-- 📫 You cn reach me at info@mondogeo.com
+- 📫 You can reach me at info@mondogeo.com
 
 <!---
 Mondogeo/Mondogeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
